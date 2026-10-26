@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101113">
+  <meta name="description" content="Интерактивный курс японского для подготовки к Bunka Fashion College: основной маршрут, японский для моды, подготовка к эссе и дополнительные материалы Genki I.">
+  <title>Bunka Japanese Studio — японский для поступления</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+<header class="topbar">
+  <a class="brand" href="#top"><span class="brand-mark">文</span><span>BUNKA <small>JAPANESE STUDIO</small></span></a>
+  <nav><a href="#course">Курс</a><a href="#genki-reference">Genki I</a><a href="#practice">Практика</a><a href="#anki">Anki</a><a href="#progress">Прогресс</a></nav>
+</header>
+<main id="top">
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">ЯПОНСКИЙ · МОДА · ПОСТУПЛЕНИЕ</p>
+      <h1>Не просто учи язык.<br><em>Учись думать на нём.</em></h1>
+      <p class="hero-text">Основной маршрут к N2 и вступительным заданиям Bunka Fashion College остаётся на месте. Дополнительно в него встроены темы из Genki I — с привязкой к главам и без замены основного курса.</p>
+      <div class="hero-actions"><a class="button button-dark" href="#course" id="startLearning">Продолжить обучение <span>↗</span></a><a class="quiet-link" href="#genki-reference">Как Genki I дополняет курс ↓</a></div>
+      <div class="hero-stats">
+        <div><strong id="lessonCount">160</strong><span>уроков всего</span></div>
+        <div><strong id="wordCount">166</strong><span>слов в стартовой колоде</span></div>
+        <div><strong id="progressPercent">0%</strong><span>твой прогресс</span></div>
+      </div>
+    </div>
+    <div class="hero-art"><div class="art-grid"></div><div class="art-circle"></div><div class="art-kanji">学ぶ</div><div class="art-caption">STUDY WITH INTENTION<br>MAKE YOUR IDEAS CLEAR</div><div class="art-stamp">文化<br><small>FASHION</small></div></div>
+  </section>
+
+  <section class="daily-strip" aria-label="План занятия">
+    <div class="daily-heading"><p class="eyebrow">ТВОЙ ПЛАН НА СЕГОДНЯ</p><h2>Меньше перечитывания.<br>Больше вспоминания.</h2><p>Стабильная короткая практика эффективнее редких марафонов.</p></div>
+    <div class="daily-items">
+      <div><span class="duration">10 мин</span><b>Повторение Anki</b><small>Сначала карточки, срок которых наступил</small></div>
+      <div><span class="duration">15 мин</span><b>Один урок</b><small>Правило → пример → своё предложение</small></div>
+      <div><span class="duration">10 мин</span><b>Активная проверка</b><small>Ответь без подглядывания, затем проверь</small></div>
+      <div><span class="duration">10 мин</span><b>Чтение или аудирование</b><small>Пойми смысл, а затем детали</small></div>
+      <div><span class="duration">5 мин</span><b>Выход в язык</b><small>Произнеси или напиши свои 2–3 фразы</small></div>
+    </div>
+  </section>
+
+  <section class="section" id="course">
+    <div class="section-heading"><div><p class="eyebrow">УЧЕБНАЯ ПРОГРАММА</p><h2>Основной курс + дополнения.</h2></div><p>Основные 136 уроков сохранены. Дополнительные темы Genki I идут отдельным модулем и связаны с главами учебника ниже.</p></div>
+    <div class="course-toolbar">
+      <label class="search-box"><span>⌕</span><input id="lessonSearch" type="search" placeholder="Найти урок, грамматику или тему…" autocomplete="off"></label>
+      <select id="trackFilter" aria-label="Фильтр модулей"><option value="all">Все модули</option></select>
+      <select id="statusFilter" aria-label="Фильтр прогресса"><option value="all">Все уроки</option><option value="todo">Не пройдены</option><option value="done">Пройдены</option></select>
+    </div>
+    <div class="course-layout">
+      <aside class="lesson-browser panel"><div class="browser-header"><span class="panel-label">КАТАЛОГ УРОКОВ</span><span id="shownCount" class="small-muted">160 уроков</span></div><div id="lessonList" class="lesson-list"></div></aside>
+      <article id="lessonPanel" class="lesson-panel panel" aria-live="polite"></article>
+    </div>
+  </section>
+
+
+  <section class="section genki-section" id="genki-reference">
+    <div class="section-heading"><div><p class="eyebrow">ДОПОЛНЕНИЕ К ОСНОВНОЙ ПРОГРАММЕ</p><h2>Genki I — карта тем</h2></div><p>Основной курс на 136 уроков, блок профессионального японского и подготовка к Bunka сохранены. Здесь темы из оглавления Genki I сопоставлены с существующими уроками; 24 дополнительных материала закрывают полезные пробелы.</p></div>
+    <div class="genki-note panel"><span class="genki-mark">元</span><p><b>Как использовать:</b> работай по основному каталогу, а карту Genki I используй для сверки. Кнопка в каждой главе открывает связанный урок сайта. Полные объяснения, аудио и оригинальные упражнения остаются в твоём экземпляре учебника; примеры на сайте самостоятельные.</p></div>
+    <div class="genki-grid" id="genkiChapterGrid"></div>
+    <div class="genki-reading panel"><div><p class="eyebrow">READING & WRITING</p><h3>Разделы чтения и письма из оглавления</h3><p>Это ориентиры для работы с текстами и заданиями в оригинальном учебнике, а не перепечатка его содержимого.</p></div><div id="genkiReadingList" class="genki-reading-list"></div></div>
+  </section>
+
+  <section class="section practice-section" id="practice">
+    <div class="section-heading"><div><p class="eyebrow">АКТИВНОЕ ВСПОМИНАНИЕ</p><h2>Проверь себя</h2></div><p>Тест не показывает ответ заранее. Сначала выбери вариант, получи объяснение и только потом переходи дальше.</p></div>
+    <div class="quiz-layout"><div class="quiz-panel panel"><div class="quiz-top"><span id="quizCounter">СЕССИЯ ГОТОВА</span><div class="mini-track"><span id="quizTrack"></span></div></div><div id="quizContent"><h3>Короткая смешанная практика</h3><p>Вопросы берутся из разных тем, чтобы ты учился различать похожие конструкции, а не угадывал по порядку урока.</p><button class="button button-dark" id="startQuiz">Начать 10 вопросов</button></div><div class="quiz-actions" id="quizActions" hidden><button class="button button-light" id="quizRestart">Заново</button><button class="button button-dark" id="quizNext" disabled>Проверить ответ</button></div><div id="quizFeedback" class="quiz-feedback" aria-live="polite"></div></div>
+      <aside class="coach-note"><span class="big-kanji">復習</span><p class="eyebrow">ОШИБКА = ДАННЫЕ</p><h3>Не просто узнай ответ — вспомни его.</h3><p>Если ошибся, прочитай объяснение и попробуй вспомнить правило ещё раз. В Anki отмечай «Снова», если ответ не вспомнился без подсказки.</p></aside></div>
+  </section>
+
+  <section class="section review-section" id="review">
+    <div class="section-heading"><div><p class="eyebrow">ИНТЕРВАЛЬНОЕ ПОВТОРЕНИЕ</p><h2>Карточки на сегодня</h2></div><p>Локальное повторение по расписанию на этом сайте. Для полноценной долгосрочной колоды используй Anki — импорт доступен ниже.</p></div>
+    <div class="review-layout">
+      <div class="review-main panel">
+        <div class="review-stats"><div><strong id="dueCount">0</strong><small>пора повторить</small></div><div><strong id="newCount">10</strong><small>новые карточки</small></div><div><strong id="reviewedCount">0</strong><small>ответов сегодня</small></div></div>
+        <div id="flashcardArea" class="flashcard-area"><div class="flashcard-empty"><span class="flash-symbol">単</span><h3>Готов начать повторение?</h3><p>Сайт выберет просроченные карточки и добавит до 10 новых слов за сессию.</p><button class="button button-dark" id="startReview">Начать повторение</button></div></div>
+      </div>
+      <aside class="review-guide"><p class="eyebrow">КАК ОЦЕНИВАТЬ ОТВЕТ</p><div class="rating-guide"><b class="again-label">Снова</b><span>Не вспомнил или угадал</span></div><div class="rating-guide"><b class="hard-label">Трудно</b><span>Вспомнил с заметным усилием</span></div><div class="rating-guide"><b class="good-label">Хорошо</b><span>Вспомнил правильно</span></div><div class="rating-guide"><b class="easy-label">Легко</b><span>Вспомнил быстро и уверенно</span></div><p class="small-muted">Интервалы на сайте — простая локальная схема. В Anki можно использовать его встроенное адаптивное расписание.</p></aside>
+    </div>
+  </section>
+
+  <section class="section anki-section" id="anki">
+    <div class="section-heading"><div><p class="eyebrow">КОЛОДА ANKI</p><h2>Запоминай надолго.</h2></div><p>В Anki ты сможешь продолжать повторение по расписанию на телефоне и компьютере. Карточки включают японские слова, чтение, перевод, примеры и грамматические конструкции.</p></div>
+    <div class="anki-grid">
+      <div class="anki-card dark-card"><span class="anki-logo">A</span><p class="eyebrow">ГОТОВАЯ КОЛОДА</p><h3>Bunka Japanese — Core</h3><p>Импортируемая колода с базовой лексикой, профессиональными словами и грамматическими правилами из курса.</p><a class="button button-paper" href="anki/bunka_japanese_core.apkg" download>Скачать .apkg <span>↓</span></a><small>Файл для импорта в Anki Desktop / AnkiMobile</small></div>
+      <div class="anki-card"><span class="file-icon">TSV</span><p class="eyebrow">ТЕКСТОВЫЙ ЭКСПОРТ</p><h3>Открытый формат</h3><p>Файл TSV в UTF-8 можно импортировать в Anki и при желании редактировать. Есть поля Front, Back и теги по темам.</p><a class="button button-dark" href="anki/bunka_japanese_core.tsv" download>Скачать TSV <span>↓</span></a><small>В диалоге импорта выбери разделитель Tab и тип заметки Basic.</small></div>
+      <div class="anki-card"><span class="file-icon">＋</span><p class="eyebrow">СОБСТВЕННЫЕ КАРТОЧКИ</p><h3>Экспорт из сайта</h3><p>Скачай актуальную TSV-колоду, созданную из текущего учебного набора. В неё входят карточки слов и отдельные карточки по урокам.</p><button class="button button-light" id="exportAnki">Скачать все карточки <span>↓</span></button><small id="ankiCardCount">— карточек в экспорте</small></div>
+    </div>
+    <div class="import-steps panel"><div><span>01</span><b>Скачай</b><p>Сохрани .apkg на устройство или TSV для редактирования.</p></div><div><span>02</span><b>Импортируй</b><p>В Anki Desktop: File → Import. Для .apkg открой скачанный пакет.</p></div><div><span>03</span><b>Повторяй</b><p>Сначала завершай карточки, срок которых наступил. Начни примерно с 5–10 новых карточек в день.</p></div></div>
+  </section>
+
+  <section class="section method-section" id="method">
+    <div class="section-heading"><div><p class="eyebrow">ПОЧЕМУ КУРС УСТРОЕН ТАК</p><h2>Методика, а не марафон.</h2></div><p>Это не обещание «выучить японский за X дней». Структура сочетает подходы, поддержанные исследованиями памяти и практикой преподавания языка.</p></div>
+    <div class="method-grid">
+      <article class="method-card"><span class="method-num">01</span><h3>Интервальное повторение</h3><p>Карточки возвращаются через промежутки времени, а не десятки раз подряд в один вечер. Anki управляет сроками; сайт хранит только локальную учебную практику.</p><a href="https://docs.ankiweb.net/" target="_blank" rel="noopener">Руководство Anki ↗</a></article>
+      <article class="method-card"><span class="method-num">02</span><h3>Активное вспоминание</h3><p>Сначала отвечай без конспекта, затем сверяйся с объяснением. Самопроверка показывает, что действительно доступно из памяти, а что лишь кажется знакомым.</p><a href="https://www.jstage.jst.go.jp/article/katejournal/36/0/36_43/_article" target="_blank" rel="noopener">Исследование интервального повторения ↗</a></article>
+      <article class="method-card"><span class="method-num">03</span><h3>Контекст и коммуникация</h3><p>Слова и грамматика появляются в осмысленных предложениях, затем ты строишь свои фразы. Такой переход от входного материала к устному/письменному выводу используется и в материалах Japan Foundation.</p><a href="https://marugoto.jpf.go.jp/en/about/marugoto/" target="_blank" rel="noopener">Подход Marugoto ↗</a></article>
+      <article class="method-card"><span class="method-num">04</span><h3>Специфика экзамена</h3><p>У JLPT N2 проверяются словарь, грамматика, чтение и аудирование. Для поступления отдельно тренируй письменное выражение мысли и собеседование — это не заменяется одними карточками.</p><a href="https://www.jlpt.jp/e/guideline/testsections.html" target="_blank" rel="noopener">Структура JLPT ↗</a></article>
+    </div>
+    <div class="method-note"><b>Как использовать</b><span>Каждый день: карточки → один урок → тест без подсказки → короткий текст или аудио → 2–3 собственные фразы. Новые карточки добавляй умеренно; если очередь повторения растёт, временно сократи число новых.</span></div>
+  </section>
+
+  <section class="section progress-section" id="progress">
+    <div class="section-heading"><div><p class="eyebrow">ТВОИ ДАННЫЕ</p><h2>Прогресс и резервная копия.</h2></div><p>Отметки хранятся только в текущем браузере. Экспортируй резервную копию, если не хочешь потерять локальный прогресс.</p></div>
+    <div class="progress-board panel"><div class="progress-metric"><span class="metric-label">УРОКИ</span><strong id="completedLessonsMetric">0 / 160</strong><div class="progress-line"><span id="lessonsBar"></span></div></div><div class="progress-metric"><span class="metric-label">ANKI-КАРТОЧКИ НА САЙТЕ</span><strong id="learnedCardsMetric">0</strong><div class="progress-line"><span id="cardsBar"></span></div></div><div class="progress-metric"><span class="metric-label">ПОСЛЕДНИЙ ТЕСТ</span><strong id="lastScoreMetric">—</strong><div class="progress-line"><span id="scoreBar"></span></div></div><div class="progress-buttons"><button class="button button-light" id="exportProgress">Экспорт прогресса JSON</button><label class="button button-light file-button">Импорт прогресса JSON<input type="file" id="importProgress" accept="application/json"></label><button class="button button-reset" id="resetProgress">Сбросить прогресс</button></div></div>
+  </section>
+
+  <section class="final-banner"><div><p class="eyebrow">ТВОЯ ЦЕЛЬ</p><h2>От первых частиц —<br>к своей дизайнерской идее на японском.</h2><p>Проходи курс системно, сохраняй новые слова в Anki и постепенно переходи от коротких фраз к аргументированным ответам и эссе.</p></div><a class="button button-paper" href="#course">Открыть каталог ↗</a></section>
+</main>
+<footer><a class="brand" href="#top"><span class="brand-mark">文</span><span>BUNKA <small>JAPANESE STUDIO</small></span></a><span>Неофициальный учебный проект; не связан с Bunka Fashion College.</span><a href="#top">Наверх ↑</a></footer>
+<script src="course-data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
