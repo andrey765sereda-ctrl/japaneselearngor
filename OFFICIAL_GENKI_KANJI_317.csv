@@ -1,0 +1,318 @@
+﻿Ordinal,Genki volume,Lesson,Character,Meaning (site),Onyomi (site),Kunyomi (site),Example word (site),Covered in site
+1,Genki I,3,一,one; one thing,イチ・イツ,ひと・ひとつ,一つ,yes
+2,Genki I,3,二,two,ニ,ふた・ふたつ,二つ,yes
+3,Genki I,3,三,three,サン,み・みつ・みっつ,三つ,yes
+4,Genki I,3,四,four,シ,よ・よん・よっつ,四つ,yes
+5,Genki I,3,五,five,ゴ,いつ・いつつ,五つ,yes
+6,Genki I,3,六,six,ロク,む・むつ・むっつ,六つ,yes
+7,Genki I,3,七,seven,シチ,なな・なの,七つ,yes
+8,Genki I,3,八,eight,ハチ,や・やつ・よう,八つ,yes
+9,Genki I,3,九,nine,キュウ・ク,ここの・ここのつ,九つ,yes
+10,Genki I,3,十,ten,ジュウ・ジッ,とお,十時,yes
+11,Genki I,3,百,hundred,ヒャク,もも,百円,yes
+12,Genki I,3,千,thousand,セン,ち,千円,yes
+13,Genki I,3,万,ten thousand,マン,—,一万円,yes
+14,Genki I,3,円,yen; circle,エン,まる,百円,yes
+15,Genki I,3,時,время; час,ジ,とき,時間,yes
+16,Genki I,4,日,день; солнце,ニチ・ジツ,ひ・か,日本,yes
+17,Genki I,4,本,book; origin; counter,ホン,もと,日本,yes
+18,Genki I,4,人,человек,ジン・ニン,ひと,日本人,yes
+19,Genki I,4,月,месяц; луна,ゲツ・ガツ,つき,月曜日,yes
+20,Genki I,4,火,огонь,カ,ひ,火曜日,yes
+21,Genki I,4,水,вода,スイ,みず,水曜日,yes
+22,Genki I,4,木,дерево,モク・ボク,き,木曜日,yes
+23,Genki I,4,金,золото; деньги,キン・コン,かね,お金,yes
+24,Genki I,4,土,земля; почва,ド・ト,つち,土曜日,yes
+25,Genki I,4,曜,day of week,ヨウ,—,月曜日,yes
+26,Genki I,4,上,верх; на,ジョウ,うえ・あ・のぼ,上手,yes
+27,Genki I,4,下,низ; под,カ・ゲ,した・さ・くだ・お,下手,yes
+28,Genki I,4,中,середина; внутри,チュウ,なか,中国,yes
+29,Genki I,4,半,половина,ハン,なか,半分,yes
+30,Genki I,5,山,гора,サン,やま,山道,yes
+31,Genki I,5,川,река,セン,かわ,川辺,yes
+32,Genki I,5,元,origin; source,ゲン・ガン,もと,元気,yes
+33,Genki I,5,気,дух; состояние,キ・ケ,いき,元気,yes
+34,Genki I,5,天,небо,テン,あめ・あま,天気,yes
+35,Genki I,5,私,я; личный,シ,わたし,私,yes
+36,Genki I,5,今,сейчас,コン・キン,いま,今日,yes
+37,Genki I,5,田,rice field,デン,た,田んぼ,yes
+38,Genki I,5,女,женщина,ジョ,おんな・め,女の人,yes
+39,Genki I,5,男,мужчина,ダン・ナン,おとこ,男の人,yes
+40,Genki I,5,見,видеть,ケン,み,見る,yes
+41,Genki I,5,行,идти; совершать,コウ・ギョウ,い・おこな,行く,yes
+42,Genki I,5,食,есть; пища,ショク,た・く,食べる,yes
+43,Genki I,5,飲,пить,イン,の,飲む,yes
+44,Genki I,6,東,восток,トウ,ひがし,東京,yes
+45,Genki I,6,西,запад,セイ・サイ,にし,西口,yes
+46,Genki I,6,南,юг,ナン,みなみ,南口,yes
+47,Genki I,6,北,север,ホク,きた,北海道,yes
+48,Genki I,6,口,рот; вход,コウ・ク,くち,入口,yes
+49,Genki I,6,出,выходить; появляться,シュツ,で・だ,出口,yes
+50,Genki I,6,右,правый,ウ・ユウ,みぎ,右手,yes
+51,Genki I,6,左,левый,サ,ひだり,左手,yes
+52,Genki I,6,分,минута; часть,ブン・フン・ブ,わ・わか,五分,yes
+53,Genki I,6,先,раньше; впереди,セン,さき,先生,yes
+54,Genki I,6,生,жизнь; рождаться,セイ・ショウ,い・う・なま,先生,yes
+55,Genki I,6,大,большой,ダイ・タイ,おお,大学,yes
+56,Genki I,6,学,учиться; наука,ガク,まな,学生,yes
+57,Genki I,6,外,снаружи,ガイ・ゲ,そと・ほか・はず,外国,yes
+58,Genki I,6,国,страна,コク,くに,外国,yes
+59,Genki I,7,京,capital,キョウ・ケイ,みやこ,東京,yes
+60,Genki I,7,子,ребёнок,シ・ス,こ,子ども,yes
+61,Genki I,7,小,маленький,ショウ,ちい・こ,小さい,yes
+62,Genki I,7,会,встречаться; собрание,カイ・エ,あ,会社,yes
+63,Genki I,7,社,общество; компания,シャ,やしろ,会社,yes
+64,Genki I,7,父,отец,フ,ちち・とう,父親,yes
+65,Genki I,7,母,мать,ボ,はは・かあ,母親,yes
+66,Genki I,7,高,высокий; дорогой,コウ,たか,高い,yes
+67,Genki I,7,校,school,コウ,—,学校,yes
+68,Genki I,7,毎,каждый,マイ,,毎日,yes
+69,Genki I,7,語,язык; слово,ゴ,かた,日本語,yes
+70,Genki I,7,文,письмо; культура,ブン・モン,ふみ,文化,yes
+71,Genki I,7,帰,возвращаться,キ,かえ,帰る,yes
+72,Genki I,7,入,входить; вставлять,ニュウ,はい・い,入口,yes
+73,Genki I,8,員,member; staff,イン,—,店員,yes
+74,Genki I,8,新,новый,シン,あたら・あら・にい,新しい,yes
+75,Genki I,8,聞,слышать; спрашивать,ブン・モン,き,聞く,yes
+76,Genki I,8,作,делать; создавать,サク・サ,つく,作る,yes
+77,Genki I,8,仕,служить; делать,シ・ジ,つか,仕事,yes
+78,Genki I,8,事,дело; событие,ジ・ズ,こと,仕事,yes
+79,Genki I,8,電,электричество,デン,,電車,yes
+80,Genki I,8,車,машина; колесо,シャ,くるま,電車,yes
+81,Genki I,8,休,отдыхать,キュウ,やす,休み,yes
+82,Genki I,8,言,say; word,ゲン・ゴン,い・こと,言う,yes
+83,Genki I,8,読,читать,ドク,よ,読む,yes
+84,Genki I,8,思,думать,シ,おも,思う,yes
+85,Genki I,8,次,next,ジ・シ,つぎ・つ,次回,yes
+86,Genki I,8,何,что; сколько,カ,なに・なん,何人,yes
+87,Genki I,9,午,noon,ゴ,—,午後,yes
+88,Genki I,9,後,после; позади,ゴ・コウ,あと・うし・のち,午後,yes
+89,Genki I,9,前,перед; до,ゼン,まえ,名前,yes
+90,Genki I,9,名,имя; название,メイ・ミョウ,な,名前,yes
+91,Genki I,9,白,белый,ハク・ビャク,しろ・しら,白い,yes
+92,Genki I,9,雨,дождь,ウ,あめ・あま,雨の日,yes
+93,Genki I,9,書,писать,ショ,か,書く,yes
+94,Genki I,9,友,друг,ユウ,とも,友だち,yes
+95,Genki I,9,間,interval; space,カン・ケン,あいだ・ま,時間,yes
+96,Genki I,9,家,дом; семья,カ・ケ,いえ・うち,家族,yes
+97,Genki I,9,話,говорить; рассказ,ワ,はな・はなし,日本語で話す,yes
+98,Genki I,9,少,мало,ショウ,すく・すこ,少ない,yes
+99,Genki I,9,古,старый,コ,ふる,古い,yes
+100,Genki I,9,知,знать,チ,し,知る,yes
+101,Genki I,9,来,приходить; следующий,ライ,く・き,来週,yes
+102,Genki I,10,住,жить; проживать,ジュウ,す,住む,yes
+103,Genki I,10,正,correct,セイ・ショウ,ただ・まさ,正しい,yes
+104,Genki I,10,年,год,ネン,とし,今年,yes
+105,Genki I,10,売,продавать,バイ,う,売る,yes
+106,Genki I,10,買,покупать,バイ,か,買う,yes
+107,Genki I,10,町,town,チョウ,まち,町内,yes
+108,Genki I,10,長,длинный; старший,チョウ,なが,長い,yes
+109,Genki I,10,道,дорога; путь,ドウ,みち,道路,yes
+110,Genki I,10,雪,snow,セツ,ゆき,雪だるま,yes
+111,Genki I,10,立,стоять,リツ,た,立つ,yes
+112,Genki I,10,自,self,ジ・シ,みずか,自分,yes
+113,Genki I,10,夜,night,ヤ,よる・よ,今夜,yes
+114,Genki I,10,朝,morning,チョウ,あさ,朝ご飯,yes
+115,Genki I,10,持,держать; иметь,ジ,も,持つ,yes
+116,Genki I,11,手,рука,シュ,て,手紙,yes
+117,Genki I,11,紙,бумага,シ,かみ,型紙,yes
+118,Genki I,11,好,нравиться; хороший,コウ,この,好き,yes
+119,Genki I,11,近,близкий,キン,ちか,近い,yes
+120,Genki I,11,明,светлый; ясный,メイ・ミョウ,あか・あき,明るい,yes
+121,Genki I,11,病,болезнь,ビョウ,や・やまい,病院,yes
+122,Genki I,11,院,учреждение,イン,,病院,yes
+123,Genki I,11,映,reflect; project,エイ,うつ・は,映画,yes
+124,Genki I,11,画,рисунок; план,ガ・カク,えが,画家,yes
+125,Genki I,11,歌,песня; петь,カ,うた・うた,歌う,yes
+126,Genki I,11,市,city; market,シ,いち,市場,yes
+127,Genki I,11,所,место,ショ,ところ,場所,yes
+128,Genki I,11,勉,усердие; учёба,ベン,,勉強,yes
+129,Genki I,11,強,сильный,キョウ・ゴウ,つよ,勉強,yes
+130,Genki I,11,有,иметь; существовать,ユウ・ウ,あ,有名,yes
+131,Genki I,11,旅,путешествие,リョ,たび,旅行,yes
+132,Genki I,12,昔,long ago,セキ・シャク,むかし,昔話,yes
+133,Genki I,12,々,repetition mark,—,—,人々,yes
+134,Genki I,12,神,божество; дух,シン・ジン,かみ・こう,精神,yes
+135,Genki I,12,早,ранний; быстрый,ソウ・サッ,はや,早い,yes
+136,Genki I,12,起,rise; wake up,キ,お,起きる,yes
+137,Genki I,12,牛,cow,ギュウ,うし,牛肉,yes
+138,Genki I,12,使,использовать,シ,つか,使う,yes
+139,Genki I,12,働,work,ドウ,はたら,働く,yes
+140,Genki I,12,連,соединять; связывать,レン,つら・つ,連絡,yes
+141,Genki I,12,別,separate; another,ベツ,わか,別れる,yes
+142,Genki I,12,度,degree; time,ド・ト・タク,たび,一度,yes
+143,Genki I,12,赤,красный,セキ,あか,赤い,yes
+144,Genki I,12,青,синий; голубой,セイ・ショウ,あお,青い,yes
+145,Genki I,12,色,цвет,ショク・シキ,いろ,茶色,yes
+146,Genki II,13,物,вещь; предмет,ブツ・モツ,もの,動物,yes
+147,Genki II,13,鳥,bird,チョウ,とり,小鳥,yes
+148,Genki II,13,料,плата; материал,リョウ,,料理,yes
+149,Genki II,13,理,логика; причина,リ,ことわ,理由,yes
+150,Genki II,13,特,особый,トク,,特徴,yes
+151,Genki II,13,安,дешёвый; спокойный,アン,やす,安い,yes
+152,Genki II,13,飯,rice; meal,ハン,めし,ご飯,yes
+153,Genki II,13,肉,meat,ニク,—,牛肉,yes
+154,Genki II,13,悪,bad,アク・オ,わる,悪い,yes
+155,Genki II,13,体,body,タイ,からだ,体調,yes
+156,Genki II,13,同,same,ドウ,おな,同じ,yes
+157,Genki II,13,着,надевать; прибывать,チャク,き・つ,着る,yes
+158,Genki II,13,空,sky; empty,クウ,そら・あ,空港,yes
+159,Genki II,13,港,port,コウ,みなと,空港,yes
+160,Genki II,13,昼,daytime; noon,チュウ,ひる,昼休み,yes
+161,Genki II,13,海,sea,カイ,うみ,海外,yes
+162,Genki II,14,彼,he; that,ヒ,かれ・かの,彼女,yes
+163,Genki II,14,代,поколение; эпоха,ダイ・タイ,か・よ,現代,yes
+164,Genki II,14,留,stay,リュウ・ル,と,留学,yes
+165,Genki II,14,族,tribe; family,ゾク,—,家族,yes
+166,Genki II,14,親,parent; kind,シン,おや・した,親切,yes
+167,Genki II,14,切,cut; keen,セツ・サイ,き,大切,yes
+168,Genki II,14,英,английский; выдающийся,エイ,,英語,yes
+169,Genki II,14,店,магазин,テン,みせ,店員,yes
+170,Genki II,14,去,past; leave,キョ・コ,さ,去年,yes
+171,Genki II,14,急,urgent,キュウ,いそ,急ぐ,yes
+172,Genki II,14,乗,садиться; ехать,ジョウ,の,乗る,yes
+173,Genki II,14,当,appropriate,トウ,あ,当然,yes
+174,Genki II,14,音,звук,オン・イン,おと・ね,音楽,yes
+175,Genki II,14,楽,радость; музыка,ガク・ラク,たの,音楽,yes
+176,Genki II,14,医,медицина; врач,イ,,医者,yes
+177,Genki II,14,者,person,シャ,もの,医者,yes
+178,Genki II,15,死,death; die,シ,し,死ぬ,yes
+179,Genki II,15,意,мысль; намерение,イ,,意味,yes
+180,Genki II,15,味,вкус; смысл,ミ,あじ,意味,yes
+181,Genki II,15,注,pour; note,チュウ,そそ,注意,yes
+182,Genki II,15,夏,summer,カ・ゲ,なつ,夏休み,yes
+183,Genki II,15,魚,fish,ギョ,うお・さかな,魚屋,yes
+184,Genki II,15,寺,temple,ジ,てら,お寺,yes
+185,Genki II,15,広,широкий,コウ,ひろ,広い,yes
+186,Genki II,15,足,нога; хватать,ソク,あし・た,足音,yes
+187,Genki II,15,転,revolve; fall,テン,ころ,運転,yes
+188,Genki II,15,借,брать взаймы,シャク,か,借りる,yes
+189,Genki II,15,走,бежать,ソウ,はし,走る,yes
+190,Genki II,15,場,место,ジョウ,ば,場所,yes
+191,Genki II,15,建,build,ケン,た,建物,yes
+192,Genki II,15,地,ground; earth,チ・ジ,—,地図,yes
+193,Genki II,15,通,pass; commute,ツウ・ツ,とお・かよ,通学,yes
+194,Genki II,16,供,offer; accompany,キョウ・ク,そな・とも,子供,yes
+195,Genki II,16,世,мир; поколение,セイ・セ,よ,世界,yes
+196,Genki II,16,界,мир; область,カイ,,世界,yes
+197,Genki II,16,全,all; whole,ゼン,まった,全部,yes
+198,Genki II,16,部,part; department,ブ,—,全部,yes
+199,Genki II,16,始,начинать,シ,はじ,始める,yes
+200,Genki II,16,週,неделя,シュウ,,毎週,yes
+201,Genki II,16,考,думать; обдумывать,コウ,かんが,考える,yes
+202,Genki II,16,開,открывать,カイ,ひら・あ,開く,yes
+203,Genki II,16,屋,shop; roof,オク,や,本屋,yes
+204,Genki II,16,方,направление; способ,ホウ,かた,方法,yes
+205,Genki II,16,運,carry; luck,ウン,はこ,運動,yes
+206,Genki II,16,動,move,ドウ,うご,動く,yes
+207,Genki II,16,教,учить; преподавать,キョウ,おし・おそ,教える,yes
+208,Genki II,16,室,комната,シツ,むろ,教室,yes
+209,Genki II,16,以,since; by means of,イ,もっ,以上,yes
+210,Genki II,17,野,field,ヤ,の,野菜,yes
+211,Genki II,17,習,учиться; практиковать,シュウ,なら,習う,yes
+212,Genki II,17,主,main; master,シュ・ス,ぬし・おも,主人,yes
+213,Genki II,17,歳,years old,サイ・セイ,—,二十歳,yes
+214,Genki II,17,集,собирать; собираться,シュウ,あつ,集める,yes
+215,Genki II,17,発,departure; emit,ハツ,—,発表,yes
+216,Genki II,17,表,поверхность; выражать,ヒョウ,おもて・あらわ,表現,yes
+217,Genki II,17,品,товар; изделие,ヒン,しな,作品,yes
+218,Genki II,17,写,копировать; фотографировать,シャ,うつ,写真,yes
+219,Genki II,17,真,истина; настоящий,シン,ま,写真,yes
+220,Genki II,17,字,character; letter,ジ,あざ,漢字,yes
+221,Genki II,17,活,life; activity,カツ,い,生活,yes
+222,Genki II,17,結,связывать; результат,ケツ,むす・ゆ,結果,yes
+223,Genki II,17,婚,marriage,コン,—,結婚,yes
+224,Genki II,17,歩,идти пешком,ホ・ブ,ある・あゆ,歩く,yes
+225,Genki II,18,目,глаз; пункт,モク,め,目的,yes
+226,Genki II,18,的,цель; суффикс «-ный»,テキ,まと,目的,yes
+227,Genki II,18,洋,западный; океан,ヨウ,,洋服,yes
+228,Genki II,18,服,одежда,フク,,洋服,yes
+229,Genki II,18,堂,hall,ドウ,—,食堂,yes
+230,Genki II,18,力,сила,リョク・リキ,ちから,能力,yes
+231,Genki II,18,授,give; instruct,ジュ,さず,授業,yes
+232,Genki II,18,業,work; business,ギョウ・ゴウ,わざ,授業,yes
+233,Genki II,18,試,try; test,シ,こころ・ため,試験,yes
+234,Genki II,18,験,проверка; опыт,ケン・ゲン,,経験,yes
+235,Genki II,18,貸,одалживать,タイ,か,貸す,yes
+236,Genki II,18,図,diagram; plan,ズ・ト,はか,地図,yes
+237,Genki II,18,館,здание; учреждение,カン,やかた,図書館,yes
+238,Genki II,18,終,заканчивать,シュウ,お,終わる,yes
+239,Genki II,18,宿,lodging; homework in compounds,シュク,やど,宿題,yes
+240,Genki II,18,題,тема; заглавие,ダイ,,問題,yes
+241,Genki II,19,春,spring,シュン,はる,春休み,yes
+242,Genki II,19,秋,autumn,シュウ,あき,秋風,yes
+243,Genki II,19,冬,winter,トウ,ふゆ,冬休み,yes
+244,Genki II,19,花,цветок,カ,はな,花屋,yes
+245,Genki II,19,様,вид; манера; господин,ヨウ,さま,模様,yes
+246,Genki II,19,不,not; non-,フ・ブ,—,不便,yes
+247,Genki II,19,姉,older sister,シ,あね,姉妹,yes
+248,Genki II,19,兄,older brother,ケイ・キョウ,あに,兄弟,yes
+249,Genki II,19,漢,Chinese; kanji,カン,—,漢字,yes
+250,Genki II,19,卒,graduate,ソツ,—,卒業,yes
+251,Genki II,19,工,craft; industry,コウ,—,工場,yes
+252,Genki II,19,研,исследовать; точить,ケン,と,研究,yes
+253,Genki II,19,究,изучать глубоко,キュウ,きわ,研究,yes
+254,Genki II,19,質,quality; question,シツ・シチ,たち,質問,yes
+255,Genki II,19,問,вопрос; спрашивать,モン,と,問題,yes
+256,Genki II,19,多,много,タ,おお,多い,yes
+257,Genki II,20,皿,plate,ベイ,さら,お皿,yes
+258,Genki II,20,声,voice,セイ・ショウ,こえ・こわ,大声,yes
+259,Genki II,20,茶,tea,チャ・サ,—,お茶,yes
+260,Genki II,20,止,останавливать(ся),シ,と・や,止まる,yes
+261,Genki II,20,枚,counter for flat objects,マイ,—,一枚,yes
+262,Genki II,20,両,both; a pair,リョウ,—,両親,yes
+263,Genki II,20,無,не иметь; нет,ム・ブ,な,無料,yes
+264,Genki II,20,払,pay; brush away,フツ,はら,払う,yes
+265,Genki II,20,心,сердце; душа,シン,こころ,安心,yes
+266,Genki II,20,笑,laugh; smile,ショウ,わら・え,笑う,yes
+267,Genki II,20,絶,absolute; cut off,ゼツ,た,絶対,yes
+268,Genki II,20,対,напротив; против,タイ・ツイ,あいて,反対,yes
+269,Genki II,20,痛,pain,ツウ,いた,痛い,yes
+270,Genki II,20,最,most,サイ,もっと,最高,yes
+271,Genki II,20,続,continue,ゾク,つづ,続ける,yes
+272,Genki II,21,信,believe; trust,シン,—,信じる,yes
+273,Genki II,21,経,проходить; управлять,ケイ・キョウ,へ,経験,yes
+274,Genki II,21,台,stand; counter,ダイ・タイ,うてな,台風,yes
+275,Genki II,21,風,wind; style,フウ・フ,かぜ・かざ,台風,yes
+276,Genki II,21,犬,dog,ケン,いぬ,犬小屋,yes
+277,Genki II,21,重,тяжёлый; важный,ジュウ・チョウ,おも・かさ,重い,yes
+278,Genki II,21,初,first; beginning,ショ,はじ・はつ,初めて,yes
+279,Genki II,21,若,young,ジャク,わか,若い,yes
+280,Genki II,21,送,send,ソウ,おく,送る,yes
+281,Genki II,21,幸,happiness; fortune,コウ,さいわ・しあわ,幸せ,yes
+282,Genki II,21,計,измерять; планировать,ケイ,はか,計画,yes
+283,Genki II,21,遅,late; slow,チ,おそ・おく,遅い,yes
+284,Genki II,21,配,distribute; worry,ハイ,くば,配る,yes
+285,Genki II,21,弟,younger brother,テイ・ダイ・デ,おとうと,兄弟,yes
+286,Genki II,21,妹,younger sister,マイ,いもうと,姉妹,yes
+287,Genki II,22,記,record,キ,しる,日記,yes
+288,Genki II,22,銀,серебро,ギン,,銀行,yes
+289,Genki II,22,回,times; turn,カイ・エ,まわ,一回,yes
+290,Genki II,22,夕,evening,セキ,ゆう,夕方,yes
+291,Genki II,22,黒,чёрный,コク,くろ,黒い,yes
+292,Genki II,22,用,use,ヨウ,もち,利用,yes
+293,Genki II,22,末,end; tip,マツ・バツ,すえ,週末,yes
+294,Genki II,22,待,ждать,タイ,ま,待つ,yes
+295,Genki II,22,残,remain,ザン,のこ,残る,yes
+296,Genki II,22,駅,станция,エキ,,駅前,yes
+297,Genki II,22,番,number; turn,バン,—,番号,yes
+298,Genki II,22,説,объяснять; теория,セツ・ゼイ,と,説明,yes
+299,Genki II,22,案,план; предложение,アン,,提案,yes
+300,Genki II,22,内,внутри,ナイ,うち,家の中,yes
+301,Genki II,22,忘,forget,ボウ,わす,忘れる,yes
+302,Genki II,22,守,protect,シュ・ス,まも,守る,yes
+303,Genki II,23,顔,face,ガン,かお,顔色,yes
+304,Genki II,23,悲,sad,ヒ,かな,悲しい,yes
+305,Genki II,23,怒,anger,ド,おこ・いか,怒る,yes
+306,Genki II,23,違,differ; wrong,イ,ちが,違う,yes
+307,Genki II,23,変,изменение; странный,ヘン,か,変化,yes
+308,Genki II,23,比,сравнивать; отношение,ヒ,くら,比較,yes
+309,Genki II,23,情,feeling; emotion,ジョウ・セイ,なさ,感情,yes
+310,Genki II,23,感,чувство; ощущение,カン,,感覚,yes
+311,Genki II,23,調,investigate; tone,チョウ,しら・ととの,調査,yes
+312,Genki II,23,査,investigate,サ,—,調査,yes
+313,Genki II,23,果,плод; результат,カ,は,結果,yes
+314,Genki II,23,化,изменение; превращение,カ・ケ,ば,文化,yes
+315,Genki II,23,横,sideways,オウ,よこ,横断歩道,yes
+316,Genki II,23,相,mutual; appearance,ソウ・ショウ,あい,相談,yes
+317,Genki II,23,答,answer,トウ,こた,答える,yes
