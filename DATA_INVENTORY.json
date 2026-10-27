@@ -1,0 +1,21 @@
+{
+  "vocabularyTotal": 1700,
+  "vocabularyUnique": 1700,
+  "vocabularySourceCounts": {
+    "pre-existing": 321,
+    "curated-existing": 139,
+    "genki-pdf-ocr": 905,
+    "supplemental-curated": 335
+  },
+  "vocabularyNeedsReview": 905,
+  "kanjiTotal": 1000,
+  "kanjiUnique": 1000,
+  "kanjiOfficialGenki317": 317,
+  "kanjiNeedsReview": 195,
+  "lessons": 183,
+  "genkiChapters": 23,
+  "quizItems": 24,
+  "previousKanjiRetained": 438,
+  "ankiCards": 2883,
+  "generatedOn": "2026-10-27"
+}
